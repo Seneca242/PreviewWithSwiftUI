@@ -14,6 +14,7 @@
 		0403370E2A271B9000D957C3 /* PreviewWithSwiftUI.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0403370C2A271B9000D957C3 /* PreviewWithSwiftUI.xcdatamodeld */; };
 		040337102A271B9400D957C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0403370F2A271B9400D957C3 /* Assets.xcassets */; };
 		040337132A271B9400D957C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 040337112A271B9400D957C3 /* LaunchScreen.storyboard */; };
+		0403371B2A272C5900D957C3 /* UIViewController + Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0403371A2A272C5900D957C3 /* UIViewController + Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0403370F2A271B9400D957C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		040337122A271B9400D957C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		040337142A271B9400D957C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0403371A2A272C5900D957C3 /* UIViewController + Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController + Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				040337032A271B9000D957C3 /* AppDelegate.swift */,
 				040337052A271B9000D957C3 /* SceneDelegate.swift */,
 				040337072A271B9000D957C3 /* ViewController.swift */,
+				0403371A2A272C5900D957C3 /* UIViewController + Extension.swift */,
 				040337092A271B9000D957C3 /* Main.storyboard */,
 				0403370F2A271B9400D957C3 /* Assets.xcassets */,
 				040337112A271B9400D957C3 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0403370E2A271B9000D957C3 /* PreviewWithSwiftUI.xcdatamodeld in Sources */,
+				0403371B2A272C5900D957C3 /* UIViewController + Extension.swift in Sources */,
 				040337082A271B9000D957C3 /* ViewController.swift in Sources */,
 				040337042A271B9000D957C3 /* AppDelegate.swift in Sources */,
 				040337062A271B9000D957C3 /* SceneDelegate.swift in Sources */,
